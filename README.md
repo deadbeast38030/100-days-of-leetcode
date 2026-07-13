@@ -7,8 +7,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/deadbeast38030/100-days-of-leetcode/tree/master/0027-remove-element) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/deadbeast38030/100-days-of-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/deadbeast38030/100-days-of-leetcode/tree/master/0027-remove-element) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/deadbeast38030/100-days-of-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
