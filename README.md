@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/deadbeast38030/100-days-of-leetcode/tree/master/0027-remove-element) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deadbeast38030/100-days-of-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/deadbeast38030/100-days-of-leetcode/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/deadbeast38030/100-days-of-leetcode/tree/master/0013-roman-to-integer) |
 | [0093-restore-ip-addresses](https://github.com/deadbeast38030/100-days-of-leetcode/tree/master/0093-restore-ip-addresses) |
 | [0043-multiply-strings](https://github.com/deadbeast38030/100-days-of-leetcode/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/deadbeast38030/100-days-of-leetcode/tree/master/0125-valid-palindrome) |
 ## Backtracking
 |  |
 | ------- |
