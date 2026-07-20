@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/deadbeast38030/100-days-of-leetcode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/deadbeast38030/100-days-of-leetcode/tree/master/0066-plus-one) |
 | [0013-roman-to-integer](https://github.com/deadbeast38030/100-days-of-leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/deadbeast38030/100-days-of-leetcode/tree/master/0043-multiply-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,9 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/deadbeast38030/100-days-of-leetcode/tree/master/0065-valid-number) |
 | [0013-roman-to-integer](https://github.com/deadbeast38030/100-days-of-leetcode/tree/master/0013-roman-to-integer) |
 | [0093-restore-ip-addresses](https://github.com/deadbeast38030/100-days-of-leetcode/tree/master/0093-restore-ip-addresses) |
+| [0043-multiply-strings](https://github.com/deadbeast38030/100-days-of-leetcode/tree/master/0043-multiply-strings) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deadbeast38030/100-days-of-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0093-restore-ip-addresses](https://github.com/deadbeast38030/100-days-of-leetcode/tree/master/0093-restore-ip-addresses) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/deadbeast38030/100-days-of-leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
